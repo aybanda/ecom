@@ -1,8 +1,17 @@
 Genrated API's for E-commerce site 
+
+
+
 Includes:
+
+
+
 Admin controls and dashboard
+
 Users
-Products 
+
+Products
+ 
 Categories
 Orders
 Order-Items
